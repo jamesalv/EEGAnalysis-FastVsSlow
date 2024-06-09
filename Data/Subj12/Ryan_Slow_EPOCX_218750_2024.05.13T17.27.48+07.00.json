@@ -1,0 +1,436 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:27:58.157785+07:00",
+            "extras": {
+                "type_info": "setup",
+                "value_info": true
+            },
+            "index": 1,
+            "label": "sensor_check",
+            "originalEndDatetime": "2024-05-13T17:27:58.158900+07:00",
+            "originalStartDatetime": "2024-05-13T17:27:48.423100+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:27:48.420950+07:00",
+            "type": "interval",
+            "uuid": "a5f6c9c6-6e4a-4427-9569-bfc33b304953",
+            "value": "true"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:28:28.149108+07:00",
+            "extras": {
+                "action_info": {
+                },
+                "label_info": {
+                },
+                "value_info": true
+            },
+            "index": 2,
+            "label": "phase_relaxing",
+            "originalEndDatetime": "2024-05-13T17:28:28.145300+07:00",
+            "originalStartDatetime": "2024-05-13T17:28:28.145300+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:28:28.149108+07:00",
+            "type": "instance",
+            "uuid": "176fef6f-e542-4c8b-8545-8fc2eb8e2ca1",
+            "value": 59965
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:29:40.132969+07:00",
+            "extras": {
+                "type_info": "setup",
+                "value_info": true
+            },
+            "index": 3,
+            "label": "CQ",
+            "originalEndDatetime": "2024-05-13T17:29:40.131500+07:00",
+            "originalStartDatetime": "2024-05-13T17:29:32.628600+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:29:32.629282+07:00",
+            "type": "interval",
+            "uuid": "fdcc1345-b493-41fa-ac93-a57631aff870",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:30:07.813064+07:00",
+            "extras": {
+                "action_info": {
+                },
+                "label_info": {
+                    "element_id": 304902,
+                    "element_name": "eyesclose_element_30ks",
+                    "element_type": "eyesclose",
+                    "loop_id": 1,
+                    "order_position": 1,
+                    "phase_id": 59959,
+                    "phase_name": "Calibration phase 1"
+                },
+                "type_info": "element",
+                "value_info": true
+            },
+            "index": 4,
+            "label": "eyesclose_element_30ks",
+            "originalEndDatetime": "2024-05-13T17:30:07.813800+07:00",
+            "originalStartDatetime": "2024-05-13T17:30:07.813800+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:30:07.813064+07:00",
+            "type": "instance",
+            "uuid": "f0792f6b-38e9-4f73-ae1a-f0b9e666fb17",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:30:43.418488+07:00",
+            "extras": {
+                "action_info": [
+                ],
+                "label_info": {
+                    "element_id": 304909,
+                    "element_name": "image_sitcomfortablyinstruction",
+                    "element_type": "image",
+                    "loop_id": 1,
+                    "order_position": 0,
+                    "phase_id": 59961,
+                    "phase_name": "instructions_prep"
+                },
+                "type_info": "element"
+            },
+            "index": 5,
+            "label": "phase_instructions_prep",
+            "originalEndDatetime": "2024-05-13T17:30:43.415400+07:00",
+            "originalStartDatetime": "2024-05-13T17:30:33.876600+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:30:33.876859+07:00",
+            "type": "interval",
+            "uuid": "2c0ee80a-594a-43c9-8ffb-f2236e366422",
+            "value": 59961
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:30:49.891492+07:00",
+            "extras": {
+                "action_info": {
+                },
+                "label_info": {
+                    "element_id": 304907,
+                    "element_name": "image_fullscreeninstruction",
+                    "element_type": "image",
+                    "loop_id": 1,
+                    "order_position": 2,
+                    "phase_id": 59961,
+                    "phase_name": "instructions_prep"
+                },
+                "type_info": "element",
+                "value_info": true
+            },
+            "index": 6,
+            "label": "image_fullscreeninstruction",
+            "originalEndDatetime": "2024-05-13T17:30:49.895300+07:00",
+            "originalStartDatetime": "2024-05-13T17:30:49.895300+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:30:49.891492+07:00",
+            "type": "instance",
+            "uuid": "7c0d488c-46f7-4a07-afe7-6c7f56103b62",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:30:55.872578+07:00",
+            "extras": {
+                "action_info": [
+                ],
+                "label_info": {
+                    "element_id": 304905,
+                    "element_name": "text_navigatebackbuttons",
+                    "element_type": "text",
+                    "loop_id": 1,
+                    "order_position": 3,
+                    "phase_id": 59961,
+                    "phase_name": "instructions_prep"
+                },
+                "type_info": "element"
+            },
+            "index": 7,
+            "label": "text_navigatebackbuttons",
+            "originalEndDatetime": "2024-05-13T17:30:55.871400+07:00",
+            "originalStartDatetime": "2024-05-13T17:30:53.158900+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:30:53.155322+07:00",
+            "type": "interval",
+            "uuid": "bb50e8cd-0fe6-423c-981b-cc8efba2a3e7",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:30:57.075042+07:00",
+            "extras": {
+                "action_info": {
+                },
+                "label_info": {
+                    "element_id": 304912,
+                    "element_name": "text_navigatebackbuttons_1",
+                    "element_type": "text",
+                    "loop_id": 1,
+                    "order_position": 5,
+                    "phase_id": 59961,
+                    "phase_name": "instructions_prep"
+                },
+                "type_info": "element",
+                "value_info": true
+            },
+            "index": 8,
+            "label": "text_navigatebackbuttons_1",
+            "originalEndDatetime": "2024-05-13T17:30:57.075300+07:00",
+            "originalStartDatetime": "2024-05-13T17:30:57.075300+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:30:57.075042+07:00",
+            "type": "instance",
+            "uuid": "d7f69f88-6492-4efe-ae8e-bfe93184a326",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:31:00.698050+07:00",
+            "extras": {
+                "action_info": [
+                ],
+                "label_info": {
+                    "element_id": 304910,
+                    "element_name": "text_navigatebackbuttons_2",
+                    "element_type": "text",
+                    "loop_id": 1,
+                    "order_position": 6,
+                    "phase_id": 59961,
+                    "phase_name": "instructions_prep"
+                },
+                "type_info": "element"
+            },
+            "index": 9,
+            "label": "text_navigatebackbuttons_2",
+            "originalEndDatetime": "2024-05-13T17:31:00.698600+07:00",
+            "originalStartDatetime": "2024-05-13T17:30:58.810700+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:30:58.808464+07:00",
+            "type": "interval",
+            "uuid": "7927682d-e4aa-41c7-bab6-1648b5043bb0",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:31:07.514615+07:00",
+            "extras": {
+                "type_info": "setup"
+            },
+            "index": 10,
+            "label": "active_period",
+            "originalEndDatetime": "2024-05-13T17:31:07.516100+07:00",
+            "originalStartDatetime": "2024-05-13T17:31:07.516100+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:31:07.514615+07:00",
+            "type": "instance",
+            "uuid": "354bd76d-64fa-44f0-8da3-54a1b562a677",
+            "value": "true"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:31:11.161048+07:00",
+            "extras": {
+                "action_info": [
+                ],
+                "label_info": {
+                    "element_id": 304904,
+                    "element_name": "text_element_hyoj",
+                    "element_type": "text",
+                    "loop_id": 1,
+                    "order_position": 1,
+                    "phase_id": 59960,
+                    "phase_name": "Instructions_task"
+                },
+                "type_info": "element"
+            },
+            "index": 11,
+            "label": "text_element_hyoj",
+            "originalEndDatetime": "2024-05-13T17:31:11.158300+07:00",
+            "originalStartDatetime": "2024-05-13T17:31:09.818900+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:31:09.818036+07:00",
+            "type": "interval",
+            "uuid": "119eb3cb-4c11-429e-b89a-caae0a1ad373",
+            "value": "NULL"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:41:11.167106+07:00",
+            "extras": {
+                "action_info": {
+                },
+                "label_info": {
+                    "element_id": "gap_element_28942daf-e7ea-4a18-a557-73e05abeeb32",
+                    "element_name": "gap_element",
+                    "element_type": "gap_element",
+                    "loop_id": 1,
+                    "phase_id": 59962,
+                    "phase_name": "Stimuli_gonogo_practice"
+                },
+                "type_info": "element",
+                "value_info": true
+            },
+            "index": 12,
+            "label": "gap_element",
+            "originalEndDatetime": "2024-05-13T17:41:11.165100+07:00",
+            "originalStartDatetime": "2024-05-13T17:41:11.165100+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:41:11.167106+07:00",
+            "type": "instance",
+            "uuid": "f12e566c-7c8b-43b5-a9ae-76f0b5f65c0a",
+            "value": "auto_generated"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:41:37.027888+07:00",
+            "extras": {
+                "action_info": [
+                ],
+                "label_info": {
+                    "element_id": 304914,
+                    "element_name": "question_element_wkqr",
+                    "element_type": "question",
+                    "loop_id": 1,
+                    "order_position": 0,
+                    "phase_id": 59963,
+                    "phase_name": "sam_questionnaire"
+                },
+                "type_info": "element"
+            },
+            "index": 13,
+            "label": "last_stimuli",
+            "originalEndDatetime": "2024-05-13T17:41:37.030100+07:00",
+            "originalStartDatetime": "2024-05-13T17:41:11.674500+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:41:11.674640+07:00",
+            "type": "interval",
+            "uuid": "cfc02c8b-065d-4bb5-b1ae-8f1ad23a1549",
+            "value": "2024-05-13T17:41:11.674+07:00"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-05-13T17:41:53.050329+07:00",
+            "extras": {
+                "action_info": {
+                },
+                "label_info": {
+                    "element_name": "finish_running"
+                },
+                "type_info": "setup",
+                "value_info": true
+            },
+            "index": 14,
+            "label": "finish_running",
+            "originalEndDatetime": "2024-05-13T17:41:53.049600+07:00",
+            "originalStartDatetime": "2024-05-13T17:41:53.049600+07:00",
+            "port": "labs",
+            "startDatetime": "2024-05-13T17:41:53.050329+07:00",
+            "type": "instance",
+            "uuid": "a51d0210-31ac-4aca-9195-b68a63347320",
+            "value": "2024-05-13T17:41:53.049+07:00"
+        }
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": "2004-01-01",
+        "countryOfInfluence": {
+            "iso": "AX",
+            "printable": "Åland Islands"
+        },
+        "countryOfResidence": {
+            "iso": "AR",
+            "printable": "Argentina"
+        },
+        "education": "Bachelor's degree",
+        "gender": "M",
+        "handedness": "Left",
+        "languageAbility": "Native Language Only",
+        "meditation": {
+            "answer": false,
+            "duration_frequency": "Day",
+            "length_unit": "Month"
+        },
+        "musicalAbility": "None",
+        "profession": "Computer and mathematical"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-05-27T17:03:34.238+07:00",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "865282a4-c1f7-4a88-9a47-41c7111f138a",
+    "surveysResults": {
+        "survey": [
+            {
+                "answer_index": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "answer_tag": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer_text": [
+                    "I am in a space where I will not be distracted or disturbed",
+                    "My phone is out of the room or on \"do not disturb\" mode",
+                    "My headset is charged",
+                    "My computer is charged or connected to power",
+                    "I am sitting upright, at a desk, in a chair that does not swivel"
+                ],
+                "element_name": "question_environmentchecklist",
+                "id": 304906,
+                "loop_id": 1,
+                "phase_name": "instructions_prep",
+                "question_label": "The duration of this experiment is approximately 15 minutes.  Before you begin, please check and confirm the following"
+            },
+            {
+                "answer_index": [
+                    "7"
+                ],
+                "answer_tag": [
+                    ""
+                ],
+                "answer_text": [
+                    "7"
+                ],
+                "element_name": "question_element_wkqr",
+                "id": 304914,
+                "loop_id": 1,
+                "phase_name": "sam_questionnaire",
+                "question_label": "From scale 1 to 9 how much do you enjoy the game experience?"
+            },
+            {
+                "answer_index": [
+                    "5"
+                ],
+                "answer_tag": [
+                    ""
+                ],
+                "answer_text": [
+                    "5"
+                ],
+                "element_name": "question_element_e36t",
+                "id": 304915,
+                "loop_id": 1,
+                "phase_name": "sam_questionnaire",
+                "question_label": "From scale 1 to 9 how aroused / excited are you with the game?"
+            }
+        ]
+    },
+    "user": "iebinus"
+}
